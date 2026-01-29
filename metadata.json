@@ -1,0 +1,9 @@
+{
+  "name": "Gemini Clone Pro",
+  "description": "A professional-grade AI workspace featuring Real-time Live Mode, Prompt Optimization, Zen Mode for focus, and advanced grounding capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}

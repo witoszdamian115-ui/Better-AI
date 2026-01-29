@@ -1,0 +1,15 @@
+
+{
+  "appId": "com.geminipro.clone.app",
+  "appName": "Gemini Pro",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": true
+  }
+}
